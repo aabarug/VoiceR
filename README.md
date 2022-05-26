@@ -1,0 +1,1 @@
+This is to document how to use Talon and R for hands-free coding
